@@ -1,0 +1,11 @@
+{
+  "name": "get-flag-from-i18n",
+  "version": "1.0.0",
+  "description": "Returns country flag emoji by region as defined by a specific i18n locale string",
+  "main": "get-flag.js",
+  "author": "Jeremy Swanborough <jeremy@swanburger.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash.pick": "^4.4.0"
+  }
+}
